@@ -1,0 +1,15 @@
+2024-03-12 10:15:30 INFO Server started successfully
+2024-03-12 10:16:45 ERROR Connection timeout from 192.168.1.100
+2024-03-12 10:17:22 WARNING High memory usage 85%
+2024-03-12 10:18:10 ERROR Failed to connect to database at 10.0.0.5
+2024-03-12 10:19:33 INFO User login from 192.168.1.45
+2024-03-12 10:20:17 ERROR Permission denied accessing /var/www
+2024-03-12 10:21:05 WARNING Disk space low 10%
+2024-03-12 10:22:30 ERROR Exception in module: divide by zero
+2024-03-12 10:23:45 INFO Backup completed from 192.168.1.200
+2024-03-12 10:24:12 ERROR Connection timeout from 192.168.1.150
+2024-03-12 10:25:33 WARNING CPU temperature high
+2024-03-12 10:26:18 ERROR Failed to send email via smtp.gmail.com
+2024-03-12 10:27:42 INFO Scheduled job completed
+2024-03-12 10:28:55 ERROR Memory allocation failed at 10.0.0.15
+2024-03-12 10:29:30 WARNING Service response slow
